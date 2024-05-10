@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=Pranta+|+Hossen&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+zinx;I'm+mainly+doing+web+and+mobile+app+development;I'm+a+student+and+working+as+freelance+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pranta;I'm+mainly+doing+web+development;I'm+a+student)](https://git.io/typing-svg)
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrantaHossen&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
@@ -9,7 +9,7 @@
 <!--  ./STAT -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=zinx110&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="zinx's github stats" /> 
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinx110&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlsl,shell,c#,Jupyter Notebook" />
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrantaHossen&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlsl,shell,c#,Jupyter Notebook" />
 </div>
 
 
@@ -90,12 +90,12 @@
 
 <div align="center">
   <br>
-  <p align="centre"><b>Total time coded since April 6 2023</b></p>  
+  <p align="centre"><b>Total time coded since </b></p>  
   <a align="center" href="https://wakatime.com/@fa93ea22-c9ab-4efe-9538-651084c8a593" title="Total time coded since April 6 2023"><img align="center" src="https://wakatime.com/badge/user/fa93ea22-c9ab-4efe-9538-651084c8a593.svg" /></a> <br>
   <br>
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{zinx110}/count.svg" /></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PrantaHossen}/count.svg" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer"/>
