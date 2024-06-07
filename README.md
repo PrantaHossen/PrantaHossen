@@ -8,7 +8,7 @@
 
 <!--  ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=zinx110&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="zinx's github stats" /> 
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=PrantaHossen&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="PrantaHossen github stats" /> 
   <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrantaHossen&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlsl,shell,c#,Jupyter Notebook" />
 </div>
 
@@ -18,7 +18,7 @@
 
 <!-- ./Contribution Streak  -->
 <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=zinx110&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="zinx | Tasdid Hossain" />
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrantaHossen&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="PrantaHossen | PrantaHossen| PrantaHossen" />
 </div>
 
 
