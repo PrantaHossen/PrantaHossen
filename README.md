@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pranta;I'm+mainly+doing+web+development;I'm+a+student)](https://git.io/typing-svg)
 
+<img src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1722470400&v=beta&t=Fhg-3SyKTd2Sn6WExTF5UDLEwPhPaDf5gHEK7NGajUo" alt="Muhammad Zeeshan Khan" style="width: 100%; border-radius: 50%;">
+
+
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrantaHossen&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
 </div> 
