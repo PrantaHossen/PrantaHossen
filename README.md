@@ -19,10 +19,10 @@
 
 ### 👨‍💻 About Me  
 - Software Developer at **AkijBashir Group** – working on ERP portals (front-end, back-end, integration)  
-- Fluent in front-end: React.js, Next.js, Angular, UI/UX workflows  
-- Also strong on back-end: Laravel/PHP, Node.js/Express, PostgreSQL, MongoDB  
+- Fluent in front-end: Angular, UI/UX workflows  
+- Also strong on back-end: ASP.net Core api, MS SQL
 - Plus infrastructure & system admin: Linux, virtualization, network/firewall basics  
-- Always learning: currently diving deeper into Laravel + modern frontend frameworks  
+- Always learning: currently diving deeper into .NET 9 API Clean Architecture + modern frontend frameworks  
 
 ### 🛠️ Tech Stack  
 **Front-end & UI**:  
@@ -48,8 +48,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)  
 
 ### 📫 Contact Me  
-- Email: pranta.hossen@example.com  
-- LinkedIn: [Your LinkedIn URL]  
-- Twitter: [@YourTwitterHandle]  
+- Email: prantahossen@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/pranta-hossen-853843230/
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer"/>
