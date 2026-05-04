@@ -14,28 +14,20 @@
 
 ## 👤 About Me
 
-```ts
-const pranta = {
-  name     : "Pranta Hossen",
-  handle   : "@PrantaHossen",
-  role     : "Software Developer",
-  company  : "AkijBashir Group · ERP Division",
-  location : "Dhaka, Bangladesh",
-  status   : "🟢 Currently active",
+<div align="center">
 
-  stack    : ["Angular", "ASP.NET Core", "MS SQL", "TypeScript", "C#"],
-  learning : ["Docker", ".NET 9 Clean Arch", "Rust", "Cloud Infrastructure"],
-  interests: ["ERP Systems", "Clean Architecture", "Linux Sysadmin", "Network & Firewall"],
+🟢 **Currently active** at **AkijBashir Group · ERP Division**, Dhaka, Bangladesh
 
-  contact  : {
-    email   : "prantahossen@gmail.com",
-    linkedin: "linkedin.com/in/pranta-hossen-853843230",
-    github  : "github.com/PrantaHossen",
-  },
+</div>
 
-  quickStats: { experience: "3+ years", technologies: 14, location: "Dhaka, BD" },
-};
-```
+Hi! I'm **Pranta Hossen** (`@PrantaHossen`), a **Software Developer** building enterprise ERP portals and modern web applications using **Angular**, **ASP.NET Core**, and **MS SQL**. Currently going deep into **.NET 9 Clean Architecture**, **Docker**, and **Rust**.
+
+- 🏢 **Company:** AkijBashir Group · ERP Division
+- 📍 **Location:** Dhaka, Bangladesh
+- 💼 **Experience:** 3+ years · 14 technologies
+- 🔧 **Stack:** Angular · ASP.NET Core · MS SQL · TypeScript · C#
+- 📚 **Learning:** Docker · .NET 9 Clean Arch · Rust · Cloud Infrastructure
+- 🎯 **Interests:** ERP Systems · Clean Architecture · Linux Sysadmin · Network & Firewall
 
 <div align="center">
 
