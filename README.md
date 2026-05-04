@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=200&section=header&text=Pranta%20Hossen&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ERP%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pranta%20Hossen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ERP%20%26%20Full%E2%80%91Stack%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -20,7 +20,7 @@ const pranta = {
   handle   : "@PrantaHossen",
   role     : "Software Developer",
   company  : "AkijBashir Group · ERP Division",
-  location : "Dhaka, Bangladesh 🇧🇩",
+  location : "Dhaka, Bangladesh",
   status   : "🟢 Currently active",
 
   stack    : ["Angular", "ASP.NET Core", "MS SQL", "TypeScript", "C#"],
@@ -231,7 +231,7 @@ AkijBashir Group
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>Built with ♥ · Pranta Hossen · <a href="https://github.com/PrantaHossen">github.com/PrantaHossen</a></sub>
 
