@@ -6,8 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Angular+%7C+ASP.NET+Core+%7C+MS+SQL;Clean+Architecture+%7C+Linux+%7C+ERP+Systems;Currently+%40+AkijBashir+Group+%E2%80%94+ERP+Division)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=14&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Angular+%7C+ASP.NET+Core+%7C+MS+SQL;Clean+Architecture+%7C+Linux+%7C+ERP+Systems;Currently+%40+AkijBashir+Group+%E2%80%94+ERP+Division)](https://git.io/typing-svg)
 </div>
 
 ---
