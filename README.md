@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pranta%20Hossen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ERP%20%26%20Full%E2%80%91Stack%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=14&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Angular+%7C+ASP.NET+Core+%7C+MS+SQL;Clean+Architecture+%7C+Linux+%7C+ERP+Systems;Currently+%40+AkijBashir+Group+%E2%80%94+ERP+Division)](https://git.io/typing-svg)
 </div>
 
@@ -23,7 +17,7 @@ Hi! I'm **Pranta Hossen** (`@PrantaHossen`), a **Software Developer** building e
 
 - 🏢 **Company:** AkijBashir Group · ERP Division
 - 📍 **Location:** Dhaka, Bangladesh
-- 💼 **Experience:** 3+ years · 14 technologies
+- 💼 **Experience:** 2+ years ·
 - 🔧 **Stack:** Angular · ASP.NET Core · MS SQL · TypeScript · C#
 - 📚 **Learning:** Docker · .NET 9 Clean Arch · Rust · Cloud Infrastructure
 - 🎯 **Interests:** ERP Systems · Clean Architecture · Linux Sysadmin · Network & Firewall
@@ -36,31 +30,6 @@ Hi! I'm **Pranta Hossen** (`@PrantaHossen`), a **Software Developer** building e
 
 </div>
 
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-
-| ⬡ Total Commits | ☆ Stars Earned | ⎇ Pull Requests |
-|:-:|:-:|:-:|
-| **847** | **124** | **56** |
-| ↑ 12% this month | ↑ across all repos | ↑ 8 merged this week |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrantaHossen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrantaHossen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=12"/>
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -70,17 +39,6 @@ Hi! I'm **Pranta Hossen** (`@PrantaHossen`), a **Software Developer** building e
 
 </div>
 
-<div align="center">
-
-| 📅 Total Contributions | 🔥 Current Streak | 🏅 Longest Streak |
-|:-:|:-:|:-:|
-| **146** | **2 days** | **3 days** |
-| May 6, 2021 – Present | May 3 – May 4 | Jul 5 – Jul 7, 2024 |
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -89,23 +47,6 @@ Hi! I'm **Pranta Hossen** (`@PrantaHossen`), a **Software Developer** building e
 
 </div>
 
----
-
-## 🎯 Skill Proficiency
-
-| Skill | Proficiency |
-|-------|------------|
-| Angular | `████████████████████` **92%** |
-| TypeScript | `████████████████████` **90%** |
-| ASP.NET Core | `█████████████████░░░` **88%** |
-| MS SQL / T-SQL | `█████████████████░░░` **85%** |
-| React.js | `███████████████░░░░░` **78%** |
-| Linux Admin | `██████████████░░░░░░` **72%** |
-| Vue.js | `█████████████░░░░░░░` **65%** |
-| Docker | `███████████░░░░░░░░░` **55%** |
-| Rust | `█████░░░░░░░░░░░░░░░` **28%** |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -140,55 +81,6 @@ Hi! I'm **Pranta Hossen** (`@PrantaHossen`), a **Software Developer** building e
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_✦-DEA584?style=for-the-badge&logo=rust&logoColor=black)
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrantaHossen&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
-<div align="center">
-
-| 🏆 Multi-Stack | ⚡ Commit Streak | 🔥 ERP Builder | 🛡️ Sysadmin | 🌱 Always Learning |
-|:-:|:-:|:-:|:-:|:-:|
-| **AAA** | **A+** | **S** | **A** | **∞** |
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![erp-angular-portal](https://github-readme-stats.vercel.app/api/pin/?username=PrantaHossen&repo=erp-angular-portal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=dd0031&text_color=c9d1d9&border_radius=12)](https://github.com/PrantaHossen/erp-angular-portal)
-[![dotnet-clean-api](https://github-readme-stats.vercel.app/api/pin/?username=PrantaHossen&repo=dotnet-clean-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=5b48b5&text_color=c9d1d9&border_radius=12)](https://github.com/PrantaHossen/dotnet-clean-api)
-[![next-dashboard-ui](https://github-readme-stats.vercel.app/api/pin/?username=PrantaHossen&repo=next-dashboard-ui&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=3178c6&text_color=c9d1d9&border_radius=12)](https://github.com/PrantaHossen/next-dashboard-ui)
-
-</div>
-
-| Repository | Description | Language | Stars |
-|---|---|---|:-:|
-| **erp-angular-portal** | Enterprise ERP front-end portal with role-based dashboards, dynamic forms, and REST API integration | 🔴 Angular | ★ 38 |
-| **dotnet-clean-api** | .NET 9 Web API following Clean Architecture — CQRS, MediatR, EF Core, JWT auth | 🟣 C# | ★ 51 |
-| **next-dashboard-ui** | Modern analytics dashboard built with Next.js, Tailwind, and recharts for live data viz | 🔵 TypeScript | ★ 22 |
-
----
-
-## 🕐 Recent Activity
-
-```
-⬡  Pushed 4 commits to dotnet-clean-api                    2h ago
-⎇  Opened PR #42 — Add JWT refresh token flow               1d ago
-⬡  Pushed 7 commits to erp-angular-portal                  2d ago
-◉  Closed issue #17 — Fix MSSQL pagination bug              3d ago
-⎇  Merged PR #38 — Role-based route guards                  5d ago
-```
-
----
 
 ## 💼 Career Timeline
 
@@ -198,7 +90,7 @@ AkijBashir Group
 ├── 🔵 Software Developer Intern        Sep 10, 2024 – Mar 10, 2025  [6 months]
 │      ERP Division · Angular · REST API · ASP.NET Core basics · UI/UX workflows
 │
-├── 🟢 Software Developer               Mar 11, 2025 – Present  [~14 months & counting]  ● Currently active
+├── 🟢 Software Developer               Mar 11, 2025 – Present   ● Currently active
 │      Full ERP stack · Angular + ASP.NET Core API · MS SQL
 │      Linux sysadmin · Clean Architecture · Network & firewall basics
 │
